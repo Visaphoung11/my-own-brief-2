@@ -17,3 +17,6 @@ header {
   background-size: cover;
   min-height: 100vh;
 }
+.nav-item {
+  margin-right: 80px;
+}
